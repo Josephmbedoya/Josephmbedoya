@@ -51,7 +51,10 @@ My Skills Include
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 
+
+
 </span>
+
 check out my Social Media
 
 <a href="https://www.instagram.com/seph1331">
@@ -69,6 +72,13 @@ check out my Social Media
 <a href="https://www.youtube.com/@seph-proyectos">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 <a/>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Josephmbedoya&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Josephmbedoya)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Josephmbedoya&theme=material-palenight)](https://github.com/Josephmbedoya)
+</div>
 
 
 

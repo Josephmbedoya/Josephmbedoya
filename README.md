@@ -52,4 +52,23 @@ My Skills Include
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 
 </span>
+check out my Social Media
+
+<a href="https://www.instagram.com/seph1331">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a/>
+
+<a href="https://www.twitch.tv/seph1331">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+<a/>
+
+<a href="https://www.linkedin.com/in/josephmbedoya/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a/>
+
+<a href="https://www.youtube.com/@seph-proyectos">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+<a/>
+
+
 
